@@ -1,0 +1,9 @@
+{
+  "name": "our-yjs-signaling",
+  "scripts": {
+    "start": "npx y-webrtc"
+  },
+  "dependencies": {
+    "y-webrtc": "^10.3.0"
+  }
+}
